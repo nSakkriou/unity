@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg1
+    uniqueID: 615697843
+    locked: 0
+  - name: bg2
+    uniqueID: 2705111887
+    locked: 0
+  - name: bg3
+    uniqueID: 2447713841
+    locked: 0
+  - name: item
+    uniqueID: 1480341411
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sol
+    uniqueID: 3516545935
+    locked: 0
